@@ -1,7 +1,7 @@
-# Charlas
+# Talks
 
-Slides de las charlas de Pablo Groisman.
+Slides of talks by Pablo Groisman.
 
-| Año | Charla | Evento | Slides |
-|-----|--------|--------|--------|
-| 2026 | Sincronización | 2do Encuentro Interdisciplinario de Física y Matemática, Universidad Nacional de La Plata | [PDF](2026-unlp-sincronizacion/SincronizacionUNLP.pdf) |
+| Year | Talk | Event | Language | Slides |
+|------|------|-------|----------|--------|
+| 2026 | *Sincronización* (Synchronization) | 2nd Interdisciplinary Meeting on Physics and Mathematics, Universidad Nacional de La Plata, Argentina | Spanish | [PDF](2026-unlp-synchronization/SincronizacionUNLP.pdf) |
